@@ -21,7 +21,7 @@ function myDIAS(){
   dias.innerHTML = `<i class="fa-solid fa-gem"> ${diamond.value}`;
 }
 function myTag() {
-  a.href = 'https://i.imgur.com/rTCCl7M.png'
+  a.href = 'https://beeg.com/'
 }
 ok.addEventListener('click', () => {
   if(diamond.value > 6000){
